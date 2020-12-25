@@ -1,6 +1,7 @@
 # RT
 The final project of the graphic branch of ["School 21"](https://21-school.ru/) before the first internship. It is a development of the ideas of RTv1. This is a team project.
-
+<br>
+![https://github.com/olesgedz/RT](https://badge42.herokuapp.com/api/project/jblack-b/RT)
 ## What's new:
 * A more sophisticated interface that allows you to interact with the scene.
 * More primitives.
